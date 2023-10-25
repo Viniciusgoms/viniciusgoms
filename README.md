@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dkNHYxYnAyMHdhNGRyb3U5bWo0am1yNm1jeHRxYTVpYTlsc2U4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWfsDqn1HbkQD4AAYA/giphy-downsized-large.gif" align="right" >
 <p align="left" style="text-align: justify">
   
-Meu nome é Vinícius Gomes de Assis, mas pode chamar apenas de Vini. Sou **Desenvolvedor Backend**, entusiasta do universo tech e desde 2020 venho desenvolvendo habilidades em tecnologias como TypeScript, Javascript e seu uso em back-end através do Node.js, além de Java e Express. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest. Além disso, possuo experiência em desenvolvimento web com Javascript, Html5, Css, Saas e Angular. Exploro bancos de dados PostgreSQL e MySQL, modelando para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando  
+Meu nome é Vinícius Gomes de Assis, mas pode chamar apenas de Vini. Sou **Desenvolvedor Backend**, entusiasta do universo tech e desde 2019 venho desenvolvendo habilidades em tecnologias como TypeScript, Javascript e seu uso em back-end através do Node.js, além de Java e Express. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest. Além disso, possuo experiência em desenvolvimento web com Javascript, Html5, Css, Saas e Angular. Exploro bancos de dados PostgreSQL e MySQL, modelando para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando  
 minhas habilidades.
 
 </p>
