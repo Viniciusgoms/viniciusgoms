@@ -1,4 +1,4 @@
-<h1 align="center" >Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
+<h1 align="center" >Hello!</h1>
 
 ![](https://komarev.com/ghpvc/?username=viniciusgoms&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=viniciusgomss&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/viniciusgoms?label=Follow&style=social)
